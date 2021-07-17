@@ -4,6 +4,7 @@ Modulo para exemplificar construçao de projetos python no curso Pytools
 Nesse curso é ensinado como contribuir com projetos de codigo aberto
 
 Link do curso [Python Pro](https://plataforma.dev.pro.br/)
+[![Build Status](https://travis-ci.com/Ioboss/librapythonpro.svg?branch=main)](https://travis-ci.com/Ioboss/librapythonpro)
 
 Suportado Python 3
 
