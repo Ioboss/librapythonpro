@@ -11,6 +11,8 @@ six==1.16.0
 pytest==6.2.4
 pluggy==0.13.1
 
-
+#Coverage
+pytest-cov==2.12.1
+coverage==5.5
 
 -r requerements.txt
