@@ -8,4 +8,3 @@ script:
   - pytest librapythonpro --cov=librapythonpro
 after_success:
   - codecov
-
