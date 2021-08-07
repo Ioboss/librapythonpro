@@ -7,7 +7,6 @@ def teste_salvar_usuario(sessao):
     assert isinstance(usuario.id, int)
 
 
-
 def teste_listar_usuario(sessao):
     usuarios = [
         Usuario(nome='Vitor', email='vtloboss@hotmail.com'),
@@ -16,4 +15,3 @@ def teste_listar_usuario(sessao):
     for usuario in usuarios:
         sessao.salvar(usuario)
     assert usuarios == sessao.listar()
-
